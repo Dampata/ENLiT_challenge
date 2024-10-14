@@ -1,0 +1,10 @@
+﻿Instrument,Carbon intensity in Belgium,Unit
+Biomass,230,gCO2eq/kWh
+Geothermal,38,gCO2eq/kWh
+Hydro,11,gCO2eq/kWh
+PV,36,gCO2eq/kWh
+Wind,13,gCO2eq/kWh
+Nuclear,5,gCO2eq/kWh
+Coal,1170,gCO2eq/kWh
+Natural Gas Grid 2024,514,gCO2eq/kWh
+Spain Grid 2024,178,gCO2eq/kWh

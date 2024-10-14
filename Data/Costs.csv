@@ -1,0 +1,9 @@
+﻿Instrument,Discount rate,CAPEX ($/kW),Capacity factor,Economic life year,Fixed O&M cost (fraction of CAPEX),Fuel price ($/GJ),Variable O&M cost ($/MWh),LCOE ($/MWh)
+Biomass,7%,6068,65%,20,2.90%,0.90,5.50, 146.30 € 
+Geothermal,7%,4892,80%,25,4.38%,0.00,1.16, 91.60 € 
+Hydro,7%,3630,40%,30,1.39%,0.00,1.39, 99.30 € 
+PV,7%,1688,15%,25,0.90%,0.00,0.00, 121.80 € 
+Wind onshore,7%,2285,30%,25,2.54%,0.00,0.00, 96.70 € 
+Nuclear,7%,7911,80%,40,1.70%,0.70,4.60, 116.50 € 
+Coal,7%,4344,75%,30,1.30%,1.50,5.42, 78.60 € 
+Natural Gas,7%,899,75%,20,1.40%,3.30,5.62, 46.80 € 
